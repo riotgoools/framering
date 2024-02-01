@@ -2,9 +2,11 @@
 
 Just a good old fashioned web ring but with farcaster frames ^-^
 
+[https://warpcast.com/riotgoools/0x979a6541](https://warpcast.com/riotgoools/0x979a6541)
+
 Instructions:
 
-1. Fork this FrameRing repo and import it into a new Vercel project
+1. Fork this FrameRing repo and import it into a new Vercel Next.js project
 
 2. Set your project domain to framering-#.vercel.app – where # is the your place in the ring.* 
 
